@@ -1,0 +1,49 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0px 100 px 0px 100px;
+}
+
+.header {
+    text-align: center;
+}
+
+.explore {
+    background-color:  #c9793b;
+    border-radius: 5px;
+    padding: 10px 20px;
+    width: 150px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+h2 {
+    font-family: 'Proze Libre', sans-serif;
+}
+a:hover {
+    border: 2px solid black;
+}
+.android {
+    background-color: #a4c93b;
+}
+
+.apple {
+    background-color: #b6bcca;
+}
+
+.android, .apple {
+    padding: 5px 30px;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+
+.para {
+    font-size: 17px;
+}
+
+.b {
+    font-weight: 900;
+
+}
